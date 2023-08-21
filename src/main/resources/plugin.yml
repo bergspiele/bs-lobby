@@ -1,0 +1,6 @@
+name: lobby
+main: de.plk.plugin.LobbyPlugin
+version: 1.0.0
+
+depend:
+  - core
